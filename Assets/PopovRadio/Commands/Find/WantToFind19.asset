@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 269fd5c254584452be27a3f0948b25c8, type: 3}
+  m_Name: WantToFind19
+  m_EditorClassIdentifier: 
+  text: 
+  appEvent: {fileID: 11400000, guid: 354abd1030fa8664697f64606f019e06, type: 2}
+  itemName: {fileID: 11400000, guid: 2de12f53cc97b9144a9bf831f383ecee, type: 2}

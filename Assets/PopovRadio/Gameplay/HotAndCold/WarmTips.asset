@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 63fceaa5d1d10c44187c94b227786106, type: 3}
+  m_Name: WarmTips
+  m_EditorClassIdentifier: 
+  Colder:
+  - {fileID: 8300000, guid: 08c871e606653af4bb2f309c69e1985c, type: 3}
+  - {fileID: 8300000, guid: 60005845431fe244d9c2e7e9260fa7ac, type: 3}
+  Warmer:
+  - {fileID: 8300000, guid: e2c9950284625b848bbe7132f0b659e4, type: 3}
+  - {fileID: 8300000, guid: 0035fa527548b8549a95f667ea949908, type: 3}
